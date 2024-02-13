@@ -9,6 +9,9 @@ function App() {
         <p>
           HAHA I KNOW YOUR PASSWORD IT IS {process.env.REACT_APP_PASSWORD}
         </p>
+        <p>
+          THIS IS DEV
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
